@@ -1,0 +1,8 @@
+/home/xpanso-dev/demo-files/projects/RatingService/src/main/java/com/rating_service/excetion/ResourceNotFoundException.java
+/home/xpanso-dev/demo-files/projects/RatingService/src/main/java/com/rating_service/entity/Rating.java
+/home/xpanso-dev/demo-files/projects/RatingService/src/main/java/com/rating_service/repository/RatingRepo.java
+/home/xpanso-dev/demo-files/projects/RatingService/src/main/java/com/rating_service/controller/RatingController.java
+/home/xpanso-dev/demo-files/projects/RatingService/src/main/java/com/rating_service/services/RatingService.java
+/home/xpanso-dev/demo-files/projects/RatingService/src/main/java/com/rating_service/excetion/GlobalExceptionHandler.java
+/home/xpanso-dev/demo-files/projects/RatingService/src/main/java/com/rating_service/RatingServiceApplication.java
+/home/xpanso-dev/demo-files/projects/RatingService/src/main/java/com/rating_service/impl/RatingServiceImpl.java
